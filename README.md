@@ -1,0 +1,1 @@
+# python-program-to-generate-magic-of-any-order.Where-order-is-given-by-user-
